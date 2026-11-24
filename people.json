@@ -1,13 +1,38 @@
 [
   {
     "slug": "dr-abdoul-rasack-traore",
-    "nom": "Dr Abdoul Rasack Ismaël TRAORÉ",
+    "nom": "Dr Abdoul Rasack TRAORÉ",
     "titre": "Commissaire Général des Balani Awards",
     "distinction": "Attestation de reconnaissance",
-    "photo": "photo.jpg",
+    "photo": "dr-abdoul-rasack-traore.jpg",
     "presentation": [
-      "Le Dr Abdoul Rasack Ismaël TRAORÉ est le Commissaire Général des Balani Awards. À ce titre, il conduit l'organisation de l'événement et en porte la vision : mettre en lumière les talents et célébrer l'excellence.",
+      "Le Dr Abdoul Rasack TRAORÉ est le Commissaire Général des Balani Awards. À ce titre, il conduit l'organisation de l'événement et en porte la vision : mettre en lumière les talents et célébrer l'excellence.",
       "Sous sa coordination, l'édition 2026 réunit organisateurs, partenaires, lauréats et invités autour d'un même objectif : distinguer celles et ceux qui font rayonner leur domaine et inspirer les générations à venir."
+    ]
+  },
+  {
+    "slug": "dieudonne-kossivi-dedete-thaddee",
+    "nom": "Dieudonné Kossivi Dêdété THADDÉE",
+    "titre": "Maire Émérite de la ville de Gléi (Togo), Président de l'ONG International TogotoTogo, Promoteur Culturel",
+    "distinction": "Attestation de reconnaissance",
+    "photo": "dieudonne-kossivi-dedete-thaddee.jpg",
+    "presentation": [
+      "Maire Émérite de la ville de Gléi au Togo, Président de l'ONG International TogotoTogo et Promoteur Culturel.",
+      "Homme politique, passionné de la vie associative au quotidien et acteur incontournable du développement, Dieudonné Kossivi Dêdété THADDÉE a été distingué par le Prix Africain de Développement (PADEV) au Prix Africain du Mérite et de l'Excellence.",
+      "Il a été sacré Meilleur Artisan Africain de la Cohésion et de la Quête Communautaire à Kigali, au Rwanda, en 2025.",
+      "Engagé sur le terrain, il œuvre avec conviction pour le bien-être des communautés, la valorisation de la culture togolaise et la promotion des initiatives locales à impact social et culturel."
+    ]
+  },
+  {
+    "slug": "guy-kossi-gbezonde-akpovy",
+    "nom": "Guy Kossi Gbèzondé AKPOVY",
+    "titre": "Président de la Fédération Togolaise de Football, Membre du Comité Exécutif de la CAF",
+    "distinction": "Attestation de reconnaissance",
+    "photo": "guy-kossi-gbezonde-akpovy.jpg",
+    "presentation": [
+      "Colonel de gendarmerie, Guy Kossi Gbèzondé AKPOVY a été Directeur Général de la Gendarmerie Nationale du Togo. Il a été formé à l'École spéciale militaire de Saint-Cyr et est breveté de l'École de Guerre de Paris.",
+      "Président de la Fédération Togolaise de Football (FTF), il est souvent présenté comme celui qui a ramené le calme et la crédibilité dans le football togolais, après des années de crises.",
+      "Au niveau international, il est membre du Comité Exécutif de la Confédération Africaine de Football (CAF) et membre de la Commission de Discipline de la FIFA."
     ]
   }
 ]
